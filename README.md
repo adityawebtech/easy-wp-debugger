@@ -22,3 +22,9 @@ Feel free to **fork this repository** and submit pull requests!
 ## Support
 For any issues, please visit our **[Support Page](https://github.com/adityawebtech/easy-wp-debugger/issues)**.
 
+## Author
+👤 **Aditya Pal**  
+🌐 [Website]([https://adityawebtech.com](https://github.com/adityawebtech/easy-wp-debugger/)  
+📧 [Email](mailto:globalwebkraftofficial@gmail.com)  
+💼 [Fiverr](https://www.fiverr.com/adityawebtech)  
+
