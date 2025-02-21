@@ -24,7 +24,7 @@ For any issues, please visit our **[Support Page](https://github.com/adityawebte
 
 ## Author
 👤 **Aditya Pal**  
-🌐 [Website]([https://adityawebtech.com](https://github.com/adityawebtech/easy-wp-debugger/)  
+🌐 [Website](https://github.com/adityawebtech/easy-wp-debugger/)  
 📧 [Email](mailto:globalwebkraftofficial@gmail.com)  
 💼 [Fiverr](https://www.fiverr.com/adityawebtech)  
 
